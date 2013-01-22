@@ -4,6 +4,7 @@ by Denis Lunev
 ##GitHub integration
 * Login with GitHub
 * Store on GitHub
+* Markdown
 
 ^^^^^^^^^^^^^^^^^^^^^^
 ##Realtime
