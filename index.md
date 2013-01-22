@@ -1,10 +1,9 @@
-####What is Collider.io?
+#What is Collider.io?
 by Denis Lunev
 ^^^^^^^^^^^^^^^^^^^^^^
 ##GitHub integration
 * Login with GitHub
 * Store on GitHub
-*
 
 ^^^^^^^^^^^^^^^^^^^^^^
 ##Realtime
